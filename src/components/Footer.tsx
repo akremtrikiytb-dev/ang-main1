@@ -15,7 +15,9 @@ export default function Footer() {
             and UNICEF.
           </p>
           <p className="text-amber-300 text-sm">
-            Together, we can create a world where every child has the opportunity to learn, grow, and thrive.
+              This Website Was Made by Triki Akrem , Aloui Amen 
+
+            ( PLZ GIVE US +1 <3 )
           </p>
         </div>
       </div>
