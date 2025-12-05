@@ -15,9 +15,9 @@ export default function Footer() {
             and UNICEF.
           </p>
           <p className="text-amber-300 text-sm">
-              This Website Was Made by Triki Akrem , Aloui Amen 
+              This Website Was Made by Triki Akrem, Aloui Amen, Ahmed loujain, amine saoudi, youssef daboussi, iyed daraoui, sarra selmi
 
-            ( PLZ GIVE US +1 <3 )
+            ( PLZ GIVE US +1)
           </p>
         </div>
       </div>
